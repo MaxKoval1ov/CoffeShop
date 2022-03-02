@@ -5,7 +5,6 @@
 #include "Controller.cpp"
 #include "ConsumerGenerator.cpp"
 
-
 class App
 {
 public:
